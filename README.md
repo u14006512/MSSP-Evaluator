@@ -1,3 +1,11 @@
+ACKNOWLEDGEMENT
+
+If you want to cite this tool in your own research:
+
+Paper: Singh,E., Pillay, N. Ant-Based Generation Constructive Hyper-Heuristics for the Movie Scene Scheduling Problem. Lecture Notes in Computer Science: Theory and Practice of Natural Computing, Tenth International Conference, TPNC 2021, December 2021
+
+Tool: Singh, E, MSSP Function Evaluator, 2021
+
 MSSP Evaluator
 
 PLEASE DOWNLOAD AND OPEN THE ZIP 
