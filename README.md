@@ -1,4 +1,7 @@
 MSSP Evaluator
+
+PLEASE DOWNLOAD AND OPEN THE ZIP 
+
 INTRODUCTION
 The MSSP Evaluator is a tool created for helping to assess solutions for the movie scene scheduling problem (MSSP).
 
